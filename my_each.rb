@@ -7,6 +7,6 @@ yield(collection[i])
 end
 collection
 else 
-  puts i 
+  print i 
 end
 end 
