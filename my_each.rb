@@ -1,7 +1,7 @@
 def my_each(collection) # put argument(s) here
  if block_given?
  i = 0 
-while i < 
+while i < collection.length 
 yield(collection[i])
  puts i # code here
 end
