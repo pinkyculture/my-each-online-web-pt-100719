@@ -5,3 +5,4 @@ while i < collection.length
 yield(collection[i])
  puts i # code here
 end
+end
