@@ -6,4 +6,5 @@ yield(collection[i])
  i = i + 1 
 end
 collection
+else 
 end
